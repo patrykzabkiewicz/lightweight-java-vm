@@ -3,6 +3,7 @@
  *
  *  Created on: 20 kwi 2016
  *      Author: zabkiewp
+ * 		License: GPLv3
  */
 
 #include "garbage_collector.h"

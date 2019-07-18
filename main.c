@@ -58,10 +58,13 @@
 
 /*
 # class file interpretation and loading
+# linking
 # instructions execution
-# memory management
-# interprocess communication
-# multithreading, threads
+
+## internal classes should provide
+- memory management
+- interprocess communication
+- multithreading, threads
 
 */
 

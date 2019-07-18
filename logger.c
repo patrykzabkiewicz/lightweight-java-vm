@@ -1,6 +1,7 @@
 
 #include "logger.h"
 
+
 /* init logger */
 void logger_init(QUEUE * const log) {
     
